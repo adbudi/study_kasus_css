@@ -2,4 +2,4 @@
 
 Study Kasus Web
 
-![study kasus](screen/studykasus.png)
+![studykasus](screen/studykasus.png)
